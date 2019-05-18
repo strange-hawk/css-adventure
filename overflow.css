@@ -1,0 +1,32 @@
+div.abc{
+  background-color:#9c9f84;
+  margin:0px;
+}
+div.abc{
+  background-color: #e5e4d7;
+  border-radius:5px;
+  border-width: 5px;
+  border-bottom: none;
+  border-color: black;
+  padding:10px;
+  height:30px;
+  margin:20px;
+}
+div.def{
+  background-color: #e5e4d7;
+  border-radius:5px;
+  border-width: 3px;
+  border-bottom: none;
+  height:90px;
+  margin:20px;
+  overflow: scroll;
+}
+div.ghi{
+  background-color: #e5e4d7;
+  border-radius:5px;
+  border-width: 3px;
+  border-bottom: none;
+  height:50px;
+  margin:20px;
+  overflow: hidden;
+}
